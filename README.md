@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Thriller1198
-- 👀 I’m interested in Spatial Data Science & GIS
-- 🌱 I’m currently learning programming in R & SQL
+- 👋 Hi, I’m @Thriller1198, Lukhanyo Jonas
+- 👀 I’m interested in Data Science & AI
+- 🌱 I’m currently learning programming in PySpark and SQL
 - 💞️ I’m looking to collaborate on projects for beginners 
-- 📫 How to reach me email address: lukhanyojonas93@gmail.com 
+- 📫 How to reach me email address: jonaslukhanyo4@gmail.com 
 
 <!---
 Thriller1198/Thriller1198 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
